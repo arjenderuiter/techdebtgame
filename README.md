@@ -32,4 +32,4 @@ There you find a link to a share where we store large files.
 We'll upload them using GitHub LFS later, so you can do pull requests.
 
 # download and play
-If you want to download and play the game, please use the assets that are available in [the Releases section]: https://github.com/arjenderuiter/techdebtgame/releases
+If you want to download and play the game, please use the assets that are available in [the Releases section] (https://github.com/arjenderuiter/techdebtgame/releases)
