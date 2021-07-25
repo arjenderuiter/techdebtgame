@@ -25,3 +25,11 @@ This work is licensed under a
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+# sourcefiles
+If you want to propose improvements, altenative rules, etc, please use the source files in the BINARY folder.
+There you find a link to a share where we store large files.
+We'll upload them using GitHub LFS later, so you can do pull requests.
+
+# download and play
+If you want to download and play the game, please use the assets that are available in the Releases section
