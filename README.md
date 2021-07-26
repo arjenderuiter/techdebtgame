@@ -34,3 +34,6 @@ We'll upload them using GitHub LFS later, so you can do pull requests.
 
 # download and play
 If you want to download and play the game, please use the assets that are available in the [Releases](https://github.com/arjenderuiter/techdebtgame/releases) section.
+
+# credit
+This game was developed and conceptualised by Arjen de Ruiter, and designed and illustrated by Jomiro Eming (jomiro.eming@gmail.com).
