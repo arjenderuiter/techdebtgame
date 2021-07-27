@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/5676977/127207822-48d7d4a5-24d6-48fb-93db-3d8ca7048a0d.jpg" alt="banner" width="450"/>
+
 # techdebtgame
 A game that teaches you how to leverage and control technical debt!
 
@@ -14,8 +16,6 @@ For example, not having any technical debt probably means that you’re over eng
 **This game aims to help you understand how to leverage technical debt to your benefit, so you build a successful business.** 
 You’ll also learn that too much technical debt might give you success in the short term, but makes you lose in the long term. 
 You need to figure out how to strike a balance! :)
-
-<img src="https://user-images.githubusercontent.com/5676977/127207822-48d7d4a5-24d6-48fb-93db-3d8ca7048a0d.jpg" alt="banner" width="450"/>
 
 # license
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
