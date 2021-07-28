@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/5676977/127207822-48d7d4a5-24d6-48fb-93db-3d8ca7048a0d.jpg" alt="banner" width="450"/>
+![tech_debt_game_github_banner_slim](https://user-images.githubusercontent.com/5676977/127267629-c2ca42af-4e02-4938-83be-81bb10b27985.jpg)
 
 # techdebtgame
 A game that teaches you how to leverage and control technical debt!
