@@ -1,5 +1,8 @@
 ![tech_debt_game_github_banner_slim](https://user-images.githubusercontent.com/5676977/127267629-c2ca42af-4e02-4938-83be-81bb10b27985.jpg)
 
+# download and play
+If you want to download and play the game, please use the assets that are available in the [Releases](https://github.com/arjenderuiter/techdebtgame/releases) section.
+
 # techdebtgame
 A game that teaches you how to leverage and control technical debt!
 
@@ -33,9 +36,6 @@ This work is licensed under a
 If you want to propose improvements, altenative rules, etc, please use the source files in the BINARY folder.
 There you find a link to a share where we store large files.
 We'll upload them using GitHub LFS later, so you can do pull requests.
-
-# download and play
-If you want to download and play the game, please use the assets that are available in the [Releases](https://github.com/arjenderuiter/techdebtgame/releases) section.
 
 # credit
 This game was developed and conceptualised by Arjen de Ruiter, and designed and illustrated by Jomiro Eming (jomiro.eming@gmail.com).
